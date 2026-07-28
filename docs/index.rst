@@ -3,6 +3,7 @@ How to Google Play Pass Login: Complete Sign In Guide
 ===============================================
 
 Google Play Pass is a subscription service that gives Android users access to hundreds of premium apps and games without ads or in-app purchases. If you have an active subscription, signing in with your Google Account is all you need to access Play Pass benefits. This guide explains how to Google Play Pass login, troubleshoot common sign-in issues, and manage your subscription.
+
 .. image:: https://img.shields.io/badge/Login%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
    :align: center
